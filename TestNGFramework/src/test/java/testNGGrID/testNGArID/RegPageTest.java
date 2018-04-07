@@ -2,9 +2,9 @@ package testNGGrID.testNGArID;
 
 import org.testng.annotations.Test;
 
-import junit.framework.Assert;
 
 import org.testng.annotations.BeforeSuite;
+import org.testng.Assert;
 import org.testng.annotations.AfterGroups;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeGroups;
